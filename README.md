@@ -60,4 +60,4 @@ The system's main objectives are:
 
 ---
 ## 📈 Dashboard
-<img src=>
+<img src=https://github.com/Akshayathangavelu/Latent-fingerprint-matching-using-descriptor-based-Hough-Transform/blob/main/OUTPUT2.png>
