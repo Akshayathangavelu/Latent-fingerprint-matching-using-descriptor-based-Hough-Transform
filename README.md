@@ -59,10 +59,5 @@ The system's main objectives are:
 4. **Matching Algorithms**: Implements **Hough Transforms** and **Euclidean Distance**.
 
 ---
-
-## ⚙️ Installation
-
-### Clone the Repository
-```bash
-git clone https://github.com/yourusername/Fingerprint-Recognition-System.git
-cd Fingerprint-Recognition-System
+## 📈 Dashboard
+<img src=>
